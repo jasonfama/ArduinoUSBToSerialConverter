@@ -1,4 +1,5 @@
 /* Cheap Arduino based USB to Serial Converter*/
+/* Jason Fama*/
 void setup() {
   // put your setup code here, to run once:
 
